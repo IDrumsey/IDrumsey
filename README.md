@@ -3,3 +3,10 @@
 ### Skills
 ![HTML5 Badge](https://img.shields.io/badge/HTML-ffdeb3?style=for-the-badge&logo=html5)
 ![CSS Badge](https://img.shields.io/badge/CSS-2380ba?style=for-the-badge&logo=css3)
+![JS Badge](https://img.shields.io/badge/JS-6e45b5?style=for-the-badge&logo=JavaScript)
+![C++ Badge](https://img.shields.io/badge/C++-436bf0?style=for-the-badge)
+![React Badge](https://img.shields.io/badge/React-00004a?style=for-the-badge&logo=react)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-001f07?style=for-the-badge&logo=mongodb)
+![Laravel Badge](https://img.shields.io/badge/Laravel-1f0100?style=for-the-badge&logo=laravel)
+![MongoDB Badge](https://img.shields.io/badge/NodeJS-001f07?style=for-the-badge&logo=node-dot-js)
+
