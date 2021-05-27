@@ -15,3 +15,5 @@
 ### Social
 
 https://www.youtube.com/channel/UC9uVJXXGUJB_OP7hN959qbQ
+
+<img src="./Banner-Bottom.png" alt="Profile banner">
