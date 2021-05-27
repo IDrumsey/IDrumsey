@@ -16,4 +16,8 @@
 
 https://www.youtube.com/channel/UC9uVJXXGUJB_OP7hN959qbQ
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=IDrumsey)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDrumsey)](https://github.com/IDrumsey/github-readme-stats)
+
 <img src="./Banner-Bottom.png" alt="Profile banner">
