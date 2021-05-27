@@ -10,3 +10,8 @@
 ![Laravel Badge](https://img.shields.io/badge/Laravel-1f0100?style=for-the-badge&logo=laravel)
 ![MongoDB Badge](https://img.shields.io/badge/NodeJS-001f07?style=for-the-badge&logo=node-dot-js)
 
+---
+
+### Social
+
+https://www.youtube.com/channel/UC9uVJXXGUJB_OP7hN959qbQ
