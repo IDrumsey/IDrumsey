@@ -9,6 +9,7 @@
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-001f07?style=for-the-badge&logo=mongodb)
 ![Laravel Badge](https://img.shields.io/badge/Laravel-1f0100?style=for-the-badge&logo=laravel)
 ![MongoDB Badge](https://img.shields.io/badge/NodeJS-001f07?style=for-the-badge&logo=node-dot-js)
+![MongoDB Badge](https://img.shields.io/badge/Passport-070707?style=for-the-badge&logo=passport)
 
 ---
 
